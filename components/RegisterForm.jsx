@@ -58,8 +58,6 @@ export default function RegisterForm() {
 
     }
 
-    console.log("Name: ", name);
-
     return (
         <div className=" grid place-items-center h-screen">
             <div className=" shadow-lg p-5 rounded-lg border-t-4 border-green-400">
